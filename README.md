@@ -1,48 +1,30 @@
 # Kristian Clinton
 
+**Hands-on product leader and designer. Founder of Kinplan; co-founder of Um, hello.**
 
-**Hands-on product leader, Kinplan founder and co-founder of Um, hello.**
-
-
-I turn customer and operational problems into product priorities, design decisions and working releases. My background connects merchant operations, payments, UX and cross-team delivery, including Shopify, Lightspeed and ValPay.
-
-
-## Product leadership in practice
-
-
-At ValPay, I shaped strategy and quarterly priorities for CEO/CTO approval and owned requirements, interface design, acceptance criteria and release approval. Engineering and QA owned technical corrections and validation.
-
-
-For payments and payouts reporting, I defined requirements, redesigned screens and approved release after merchants, partners and support flagged inconsistencies. I recommended postponing low-incidence pre-arbitration support to prioritise reconciliation and usability. After release, I observed fewer support inquiries and improved merchant NPS; exact figures are unavailable.
-
+I turn customer and operational problems into product priorities, design decisions and working releases. My background spans merchant operations, payments, UX and cross-team delivery at Shopify, Lightspeed and ValPay.
 
 ## What I am building
 
+I founded [Kinplan](https://kinplan.ca/), a live bilingual planning product for intended parents and known donors. I lead product direction, design and AI-assisted development, from the original idea through launch and ongoing iteration.
 
-I founded [Kinplan](https://kinplan.ca/), a live bilingual product helping intended parents and known donors compare expectations and prepare for important conversations and legal review. I own product direction, design and AI-assisted implementation.
+Independent answers, shared review and version-specific confirmation help people compare expectations without losing their original perspectives. Kinplan is early-stage and supports preparation for legal review; it does not provide legal or medical advice. [Explore the product decisions and testing](https://kristianclinton.com/work/kinplan).
 
+I also co-founded the Montréal web studio [Um, hello.](https://umhello.ca/) in November 2026. I lead creative direction, copy, design and build for landing pages, microsites and focused small-business websites. Kiki leads sales, business and operations.
 
-Early feedback led to clearer questionnaire navigation, a welcome walkthrough and an essential-only consent fallback. The revised experience was successfully retested. Kinplan is early-stage; usability testing is not evidence of market validation.
+## Product leadership in practice
 
-
-[Read the Kinplan case study](https://kristianclinton.com/work/kinplan). Public examples use fictional data. Kinplan supports preparation and does not provide legal or medical advice.
-
-
-I co-founded the Montréal web studio [Um, hello.](https://umhello.ca/) in November 2026. I lead creative direction, copy, design and build for landing pages, microsites and focused small-business websites. My co-founder Kiki leads sales, business and operations. Our English/French studio site demonstrates the approach.
+At ValPay, I shaped strategy for CEO/CTO approval and owned requirements, interface design, acceptance criteria and release approval. My payments and payouts work prioritised reporting consistency and usability over a low-incidence dispute capability. Engineering and QA owned technical corrections and validation.
 
 ## Selected work
 
-
-- [ValPay Partner Portal](https://kristianclinton.com/work/valpay-partner-portal): product design and delivery for a live deployment.
-- [Payments and payouts](https://kristianclinton.com/work/payments-product-design): product judgment, reporting design and release ownership.
+- [ValPay Partner Portal](https://kristianclinton.com/work/valpay-partner-portal): access-editor design, product structure and delivery, with actual component captures using fictional data.
+- [Payments and payouts](https://kristianclinton.com/work/payments-product-design): requirements, redesigned reporting screens, prioritisation and release ownership.
+- [Support systems and self-service](https://kristianclinton.com/work/valpay-support-operations): migration planning, vendor negotiation, knowledge resources and team training.
 - [Canadian Artisan Dairy Alliance](https://kristianclinton.com/work/canadian-artisan-dairy-alliance): website and digital operations.
-
 
 ## Working together
 
-
-Based in Montréal. Open to hands-on product leadership and product management roles, selective projects and relocation for the right adventure. Kinplan would continue outside working hours in a full-time role.
-
+Based in Montréal. Open to hands-on product leadership, product design and delivery roles, remote work, selective projects and relocation for the right adventure. Kinplan would continue outside working hours in a full-time role.
 
 [Portfolio](https://kristianclinton.com/) · [LinkedIn](https://www.linkedin.com/in/kristianclinton/) · [hello@kristianclinton.com](mailto:hello@kristianclinton.com)
-
